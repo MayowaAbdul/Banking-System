@@ -53,7 +53,7 @@ int main()
     char user_account_password[25];
     int user_transaction_pin;
 
-    printf("\nWelcome to Jeolad Banking System\n\n");
+    printf("\nWelcome to Abdul's Banking System\n\n");
 
     do
     {
